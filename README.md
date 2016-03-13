@@ -1,2 +1,2 @@
 # lets-begin
-# Nothing to report here, just learnign how to use github
+# Nothing to report here, just learning how to use github
